@@ -1,5 +1,5 @@
-# Weather-App-ReactJs
+## Weather App using ReactJs
 
 
-### Live link
-(https://weather.web.app)
+### Live link:
+https://weather.web.app
