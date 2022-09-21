@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcbd5220.css",
+    "main.js": "/static/js/main.bfc9da51.js",
+    "static/js/787.1f95ceec.chunk.js": "/static/js/787.1f95ceec.chunk.js",
+    "static/media/blue-sky-clouds.jpg": "/static/media/blue-sky-clouds.1c9421c0ea4095b9c82c.jpg",
+    "index.html": "/index.html",
+    "main.fcbd5220.css.map": "/static/css/main.fcbd5220.css.map",
+    "main.bfc9da51.js.map": "/static/js/main.bfc9da51.js.map",
+    "787.1f95ceec.chunk.js.map": "/static/js/787.1f95ceec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcbd5220.css",
+    "static/js/main.bfc9da51.js"
+  ]
+}
