@@ -2,4 +2,4 @@
 
 
 ### Live link:
-https://weather.web.app
+https://getweather.web.app/
