@@ -72,7 +72,7 @@ function Box2() {
         <div className="search">
           <input type="text" name="city" value={city}
             onChange={(e) => setCity(e.target.value)} spellcheck="false" id="city" placeholder="enter city name.." required />
-          <button type="submit" id="get_btn"><i className="fa fa-search" onClick={() => getData(city)}></i></button>
+          <button type="submit" id="get_btn" onClick={() => getData(city)}><i className="fa fa-search"></i></button>
         </div>
 
         <div className="details">
