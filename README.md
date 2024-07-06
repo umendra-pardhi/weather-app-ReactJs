@@ -4,6 +4,22 @@ This project is a simple weather application built using React.js and integrates
 
 Live demo: [Weather App](https://getweather.web.app/)
 
+
+## OpenWeatherMap API Reference
+
+OpenWeatherMap API is used to retrieve current weather data for various locations.
+
+## API Documentation
+- Official Documentation: [OpenWeather API Docs](https://openweathermap.org/current)
+
+## API call
+
+```bash
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API key}&units=metric
+```
+
 ## Installation
 
 To run this project locally, follow these steps:
