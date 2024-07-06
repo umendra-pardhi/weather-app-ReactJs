@@ -54,7 +54,7 @@ function Box2() {
 
   const getData = (city) => {
 
-    let api = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=68ce1a3783491eae7572980c6207086b&units=metric`;
+    let api = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid={API key}&units=metric`;
     fetch(api)
       .then((res) => res.json())
       .then((result) => setD(result))
